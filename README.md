@@ -1,4 +1,10 @@
-### Hi there 👋
+👋 Hi, I’m Vimal.
+
+👀 I’m a Coding enthusiast, Gamer and Computer Science undergrad at Delhi Technological University.
+
+💻 Technical Skills : C , C++ , Python , HTML , CSS , Javacript , Php , MySQL.
+
+📫 How to reach me --> singhvimal9870@gmail.com
 
 <!--
 **Vimal201/Vimal201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
